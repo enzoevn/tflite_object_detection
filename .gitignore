@@ -1,0 +1,63 @@
+.ipynb_checkpoints
+*/.ipynb_checkpoints/*
+
+# IPython
+profile_default/
+ipython_config.py
+
+### VisualStudioCode ###
+.vscode/*
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
+!.vscode/extensions.json
+!.vscode/*.code-snippets
+
+# Local History for Visual Studio Code
+.history/
+.python_history
+.bash_history
+
+# Built Visual Studio Code Extensions
+*.vsix
+
+### VisualStudioCode Patch ###
+# Ignore all local history of files
+.history
+.ionide
+
+### Workspace ###
+.keras
+.vscode-server
+.ssh
+.local
+.ipython
+.gnupg
+.dotnet
+.cache
+.config
+tmp
+.gitconfig
+.bashrc
+
+### Weights files ###
+*.tflite
+/weights
+
+### Images ###
+
+/annotations
+/images
+/JPEGImages
+/pascal_voc
+/split-dataset
+/pascal_voc_ev
+/jpg
+
+detection.ipynb
+*.ttf
+*.txt
+*.jpg
+*.csv
+*.png
+
